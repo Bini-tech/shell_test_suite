@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# simple test which checks if error messages are displayed in the stderr
+# checks if error messages are displayed in the stderr
 
 command="Invalid_command"
 tmp_file="checker_tmp_file_$RANDOM"
